@@ -1,2 +1,1 @@
 // code
-let a;
